@@ -1,0 +1,8 @@
+pandas
+protobuf
+scikit_learn
+streamlit
+google-generativeai
+google-cloud-aiplatform
+requests
+joblib
